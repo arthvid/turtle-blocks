@@ -1,6 +1,7 @@
-# final_project
-
+Welcome to Turtle-Blocks! Check out this website for more information about the design and implementation of this project: https://turtleblocks.000webhostapp.com/
 ## To run project: 
+
+(Note: All ROS files and Catkin packages are on the master branch).
 
 Terminal 1: roscore
 
